@@ -12,7 +12,9 @@
 Here are some of my recent projects:
 
 - **[Smart-contact-manager](https://github.com/git-shubham-goswami/Smart-Contact-Manager)**: A comprehensive contact management system that provides an intuitive interface for managing contacts and leveraging modern technologies. With features for secure authentication, file storage, email functionality, and more, Smart Contact Manager is designed to meet your contact management needs efficiently.
+  
 - **[Note-taker](https://github.com/git-shubham-goswami/Note-taker)**: The Note Taker is a web-based application developed using Java technologies, including JSP, Servlets, and the Hibernate Framework, with a MySQL database backend. It allows users to create, edit, view, and delete notes, providing a simple and effective solution for managing personal notes. The application features a responsive design using HTML and CSS for the front end.
+  
 - **[Atm-simulator-system](https://github.com/git-shubham-goswami/Atm-simulator-system)**: Description The ATM Simulator System is a Java-based application designed to simulate the functionality of an Automated Teller Machine (ATM). It utilizes Java Swing for the user interface, MySQL for database management, and JDBC for database connectivity. The system allows users to perform basic banking transactions such as checking account balance, depositing funds, and withdrawing cash.
 
 
