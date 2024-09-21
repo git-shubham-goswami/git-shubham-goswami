@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning [devOps].
+- 🌱 I’m currently learning [MICROSERVICES].
 - 📫 How to reach me: [shubhamdevverse@gmail.com]
 - 👨‍💻 All of my projects are available at My GitHub profile
 - ⚡ Fun fact: As a hobby, I enjoy creating content using Adobe After Effects to make video edits. I share my creations on Instagram, where I have built a following of 27k enthusiasts!
